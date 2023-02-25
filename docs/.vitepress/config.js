@@ -2,11 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   base: '/'
-  
-  lang: 'en-US',
   title: 'Parish Handbook',
-  description: '',
-
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },

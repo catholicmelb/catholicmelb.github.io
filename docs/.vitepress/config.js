@@ -11,17 +11,16 @@ export default defineConfig({
 
     sidebar: [
       {
-          text: 'Control Panel',
+          text: 'Introduction',
           items: [
-              { text: 'Example Link One', link: '/entries' },
-              { text: 'Example Link Two', link: '/globals' },
+              { text: 'Example Link One', link: '/example-01' },
+              { text: 'Example Link Two', link: '/example-markdown' },
           ],
       },
       {
-          text: 'Addons',
+          text: 'Section Name',
           items: [
-              { text: 'Campaign', link: '/campaign' },
-              { text: 'Newsletter Builder', link: '/newsletter-builder' },
+              { text: 'Example Link Three', link: '/example-03' },
           ],
       },
     ],

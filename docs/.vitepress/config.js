@@ -20,6 +20,11 @@ export default defineConfig({
 
     sidebar: [
       { 
+          items: [
+              { text: 'Foreword', link: '/foreword.md' },
+          ],
+      },
+      { 
           text: 'Contents',
           items: [
               { text: '1. Overview', link: '/1-overview.md' },
@@ -36,21 +41,21 @@ export default defineConfig({
       //     ],
       // },
 
-      { 
-          text: '1. Overview',
-          items: [
-              { text: '1.1 Aim', link: '/aim' },
-              { text: '1.2 Church & Civil Law', link: '/law' },
-          ],
-      },
+      // { 
+      //     text: '1. Overview',
+      //     items: [
+      //         { text: '1.1 Aim', link: '/aim' },
+      //         { text: '1.2 Church & Civil Law', link: '/law' },
+      //     ],
+      // },
 
-      { 
-          text: '2. Principles of Parish Administration',
-          items: [
-              { text: '2.1 General Principles', link: '/general-principles' },
-              { text: '2.2. Acts of Parish Administration', link: '/acts-of-parish-administration' },
-          ],
-      },
+      // { 
+      //     text: '2. Principles of Parish Administration',
+      //     items: [
+      //         { text: '2.1 General Principles', link: '/general-principles' },
+      //         { text: '2.2. Acts of Parish Administration', link: '/acts-of-parish-administration' },
+      //     ],
+      // },
     ],
   }
 })

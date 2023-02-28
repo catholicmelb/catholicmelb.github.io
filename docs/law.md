@@ -1,0 +1,3 @@
+# 1.2 Church & Civil Law
+
+The Church operates in two spheres. The first, the church sphere, and the second the Commonwealth and State governmental sphere. Each sphere has its particular legislation. In the church sphere, it is the canons of The Code of Canon law. In the Commonwealth and State government spheres, it is civil law.  At times the requirements of these laws can be the same; however, on other occasions, there are significant differences between the two.
